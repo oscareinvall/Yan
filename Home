@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<style>
+	body {
+    	background-color: black;
+        font: monospace;
+    }
+
+  p {
+    text-color: white;
+  }
+</style>
+<body>
+  <p>Hello<p>
+</body>
+</html>
